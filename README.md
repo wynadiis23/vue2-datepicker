@@ -1,3 +1,5 @@
+git exploration on forking
+
 # vue2-datepicker
 
 [中文版](https://github.com/mengxiong10/vue2-datepicker/blob/master/README.zh-CN.md)
